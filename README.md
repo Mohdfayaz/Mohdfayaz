@@ -1,4 +1,4 @@
-[
+
 <h1 align="center"> # Hey there 👋 I'm Mohammed Fayaz</h1>
 <h3 align="center">A passionate full stack developer-MERN from India</h3>
 
