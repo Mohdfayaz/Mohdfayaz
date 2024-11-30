@@ -1,7 +1,6 @@
-[!MasterHead](C:\Users\MOHAMMED FAYAZ\Downloads)
-<h1 align="center">Hi 👋, I'm Mohammed Fayaz z</h1>
+[
+<h1 align="center"> # Hey there 👋 I'm Mohammed Fayaz</h1>
 <h3 align="center">A passionate full stack developer-MERN from India</h3>
-<img align="right" alt="Coding" width"400" src="https://dribbble.com/shots/5343519-Working/attachments/10816858?mode=media">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohdfayaz&label=Profile%20views&color=0e75b6&style=flat" alt="mohdfayaz" /> </p>
 
@@ -28,3 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohdfayaz&show_icons=true&locale=en" alt="mohdfayaz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdfayaz&" alt="mohdfayaz" /></p>
+](https://camo.githubusercontent.com/044bd35589202db7a09e98c05b1cc35e427b6fd91ce557e7bea65943d97524db/68747470733a2f2f63646e2e6e656f772e696e2f6e6577732f696d616765732f75706c6f616465642f323032312f30342f313631393634343736325f6769746875622d6465736b746f705f73746f72792e6a7067)
